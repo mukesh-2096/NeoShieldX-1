@@ -11,7 +11,7 @@ const Navbar = () => (
       </div>
       <div className="hidden md:flex space-x-6">
         <a href="#features" className="hover:text-cyan-400 transition-colors">Features</a>
-        <a href="#security" className="hover:text-cyan-400 transition-colors">Security</a>
+        {/* <a href="#architecture" className="hover:text-cyan-400 transition-colors">Architecture</a> */}
         <a href="#future" className="hover:text-cyan-400 transition-colors">Future</a>
       </div>
     </nav>
